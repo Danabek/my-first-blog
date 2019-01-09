@@ -25,7 +25,7 @@ SECRET_KEY = 'ltkx=%f@rqep^8ilgo(3bmd&li#_v9ecvxd67(k6_97b@7oqzx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1' , '<Danabek>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1' , 'Danabek.pythonanywhere.com']
 
 
 # Application definition
